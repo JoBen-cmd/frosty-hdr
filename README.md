@@ -1,2 +1,2 @@
 # Frosty Faustings HDR Tournament Edition 
- Tournament Edition of Frosty Faustings HDR
+ Tournament Edition for Frosty Faustings XV for HDR
